@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "DeepSeek 开放平台充值/余额壳"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "DeepSeek 充值入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DS充值"
+    }
+  ]
+}
